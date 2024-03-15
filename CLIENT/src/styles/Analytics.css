@@ -1,0 +1,22 @@
+.img {
+    background-image: url('https://cdn.pixabay.com/photo/2016/04/14/10/39/blood-1328607_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.card:hover {
+    /* transform: scale(1.1); */
+}
+
+.abs {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    width: 50%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    margin-left: 12%;
+    margin-top: 8%;
+    padding: 15px;
+}

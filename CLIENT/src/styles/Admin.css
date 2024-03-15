@@ -1,0 +1,22 @@
+.bg {
+    background-image: url('../../public/assets/images/adminbgImage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.table th {
+    background-color: darkcyan;
+
+}
